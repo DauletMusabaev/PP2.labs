@@ -11,5 +11,18 @@ namespace Lab1
         public string name;
         public double gpa;
         public int age;
+           
+        public Student()
+        {
+            name = "Daulet";
+            age = 18;
+            gpa = 4.0;
+        }
+
+        public override string ToString()
+        {
+            return name + " " + age + " " + gpa ;
+        }
     }
+
 }
