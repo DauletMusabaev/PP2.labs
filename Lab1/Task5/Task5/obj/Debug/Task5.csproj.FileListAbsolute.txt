@@ -1,0 +1,7 @@
+C:\work\PP2\Lab1\Task5\Task5\bin\Debug\Task5.exe.config
+C:\work\PP2\Lab1\Task5\Task5\bin\Debug\Task5.exe
+C:\work\PP2\Lab1\Task5\Task5\bin\Debug\Task5.pdb
+C:\work\PP2\Lab1\Task5\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\work\PP2\Lab1\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\work\PP2\Lab1\Task5\Task5\obj\Debug\Task5.exe
+C:\work\PP2\Lab1\Task5\Task5\obj\Debug\Task5.pdb
