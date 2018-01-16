@@ -1,0 +1,7 @@
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\bin\Debug\Task5Circle.exe.config
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\bin\Debug\Task5Circle.exe
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\bin\Debug\Task5Circle.pdb
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\obj\Debug\Task5Circle.csprojResolveAssemblyReference.cache
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\obj\Debug\Task5Circle.csproj.CoreCompileInputs.cache
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\obj\Debug\Task5Circle.exe
+C:\work\PP2\Lab1\Task5Circle\Task5Circle\obj\Debug\Task5Circle.pdb
