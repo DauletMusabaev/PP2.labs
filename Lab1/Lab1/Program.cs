@@ -26,7 +26,7 @@ namespace Lab1
             */
             Student s = new Student();
             s.name = "Adilet";
-            s.age = 18;
+            s.surname = "Myrzakulov";
             s.gpa = 4.0;
 
             Console.WriteLine(s);

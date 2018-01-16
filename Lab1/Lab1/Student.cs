@@ -8,20 +8,19 @@ namespace Lab1
 {
     class Student
     {
-        public string name;
+        public string name, surname;
         public double gpa;
-        public int age;
            
         public Student()
         {
             name = "Daulet";
-            age = 18;
+            surname = "Musabaev";
             gpa = 4.0;
         }
 
         public override string ToString()
         {
-            return name + " " + age + " " + gpa ;
+            return name + " " + surname + " " + gpa ;
         }
     }
 
