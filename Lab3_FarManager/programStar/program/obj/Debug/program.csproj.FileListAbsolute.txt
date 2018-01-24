@@ -1,0 +1,7 @@
+C:\work\PP2\Lab3_FarManager\program\program\bin\Debug\program.exe.config
+C:\work\PP2\Lab3_FarManager\program\program\bin\Debug\program.exe
+C:\work\PP2\Lab3_FarManager\program\program\bin\Debug\program.pdb
+C:\work\PP2\Lab3_FarManager\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+C:\work\PP2\Lab3_FarManager\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\work\PP2\Lab3_FarManager\program\program\obj\Debug\program.exe
+C:\work\PP2\Lab3_FarManager\program\program\obj\Debug\program.pdb
