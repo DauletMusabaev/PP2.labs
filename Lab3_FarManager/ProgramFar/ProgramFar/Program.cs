@@ -11,7 +11,7 @@ namespace ProgramFar
     {
         static void ShowDirectoryInfo(DirectoryInfo directory, int cursor)
         {
-            Console.BackgroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.Clear();
             FileSystemInfo[] fileSystemInfos = directory.GetFileSystemInfos();
 
@@ -19,9 +19,9 @@ namespace ProgramFar
             {
                 FileSystemInfo fileSystemInfo = fileSystemInfos[index];
                 if (index == cursor)
-                    Console.BackgroundColor = ConsoleColor.Gray;
+                    Console.BackgroundColor = ConsoleColor.DarkCyan;
                 else
-                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.BackgroundColor = ConsoleColor.DarkBlue;
                 if (fileSystemInfo.GetType() == typeof(DirectoryInfo))
                     Console.ForegroundColor = ConsoleColor.Green;
                 else
@@ -67,7 +67,7 @@ namespace ProgramFar
                         StreamReader sr = new StreamReader(directoryInfo.GetFileSystemInfos()[cursor].FullName);
                         string s = sr.ReadToEnd();
                         Console.Clear();
-                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.BackgroundColor = ConsoleColor.DarkBlue;
                         Console.ForegroundColor = ConsoleColor.White;
                         Console.WriteLine(s);
                         Console.ReadKey();
