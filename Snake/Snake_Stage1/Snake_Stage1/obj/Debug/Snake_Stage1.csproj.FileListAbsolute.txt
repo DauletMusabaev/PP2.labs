@@ -1,0 +1,7 @@
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\bin\Debug\Snake_Stage1.exe.config
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\bin\Debug\Snake_Stage1.exe
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\bin\Debug\Snake_Stage1.pdb
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\obj\Debug\Snake_Stage1.csprojResolveAssemblyReference.cache
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\obj\Debug\Snake_Stage1.csproj.CoreCompileInputs.cache
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\obj\Debug\Snake_Stage1.exe
+C:\work\PP2\Snake\Snake_Stage1\Snake_Stage1\obj\Debug\Snake_Stage1.pdb
