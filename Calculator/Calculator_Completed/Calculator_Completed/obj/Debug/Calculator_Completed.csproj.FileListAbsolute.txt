@@ -1,0 +1,10 @@
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\bin\Debug\Calculator_Completed.exe.config
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\bin\Debug\Calculator_Completed.exe
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\bin\Debug\Calculator_Completed.pdb
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.csprojResolveAssemblyReference.cache
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.Form1.resources
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.Properties.Resources.resources
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.csproj.GenerateResource.Cache
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.csproj.CoreCompileInputs.cache
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.exe
+C:\work\PP2\Calculator\Calculator_Completed\Calculator_Completed\obj\Debug\Calculator_Completed.pdb
