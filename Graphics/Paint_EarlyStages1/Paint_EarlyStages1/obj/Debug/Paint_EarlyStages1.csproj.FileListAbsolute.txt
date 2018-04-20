@@ -1,0 +1,10 @@
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\bin\Debug\Paint_EarlyStages1.exe.config
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\bin\Debug\Paint_EarlyStages1.exe
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\bin\Debug\Paint_EarlyStages1.pdb
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.csprojResolveAssemblyReference.cache
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.Form1.resources
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.Properties.Resources.resources
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.csproj.GenerateResource.Cache
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.csproj.CoreCompileInputs.cache
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.exe
+C:\work\PP2\Graphics\Paint_EarlyStages1\Paint_EarlyStages1\obj\Debug\Paint_EarlyStages1.pdb
