@@ -1,0 +1,10 @@
+C:\work\PP2\Graphics\Example5\Example5\bin\Debug\Example5.exe.config
+C:\work\PP2\Graphics\Example5\Example5\bin\Debug\Example5.exe
+C:\work\PP2\Graphics\Example5\Example5\bin\Debug\Example5.pdb
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.csprojResolveAssemblyReference.cache
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.Form1.resources
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.Properties.Resources.resources
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.csproj.GenerateResource.Cache
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.csproj.CoreCompileInputs.cache
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.exe
+C:\work\PP2\Graphics\Example5\Example5\obj\Debug\Example5.pdb
