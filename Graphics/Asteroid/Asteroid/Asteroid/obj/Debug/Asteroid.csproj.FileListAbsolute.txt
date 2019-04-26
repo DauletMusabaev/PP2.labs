@@ -1,0 +1,10 @@
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\bin\Debug\Asteroid.exe.config
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\bin\Debug\Asteroid.exe
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\bin\Debug\Asteroid.pdb
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.csprojResolveAssemblyReference.cache
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.Form1.resources
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.Properties.Resources.resources
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.csproj.GenerateResource.Cache
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.csproj.CoreCompileInputs.cache
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.exe
+C:\work\PP2\Graphics\Asteroid\Asteroid\Asteroid\obj\Debug\Asteroid.pdb

@@ -1,0 +1,10 @@
+C:\work\PP2\Graphics\Clock\Clock\Clock\bin\Debug\Clock.exe.config
+C:\work\PP2\Graphics\Clock\Clock\Clock\bin\Debug\Clock.exe
+C:\work\PP2\Graphics\Clock\Clock\Clock\bin\Debug\Clock.pdb
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.exe
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.pdb
+C:\work\PP2\Graphics\Clock\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache

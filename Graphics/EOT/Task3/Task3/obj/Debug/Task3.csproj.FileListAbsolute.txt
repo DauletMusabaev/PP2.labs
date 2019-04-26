@@ -1,0 +1,10 @@
+C:\work\PP2\Graphics\EOT\Task3\Task3\bin\Debug\Task3.exe.config
+C:\work\PP2\Graphics\EOT\Task3\Task3\bin\Debug\Task3.exe
+C:\work\PP2\Graphics\EOT\Task3\Task3\bin\Debug\Task3.pdb
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.exe
+C:\work\PP2\Graphics\EOT\Task3\Task3\obj\Debug\Task3.pdb
